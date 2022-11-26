@@ -1,0 +1,4 @@
+inventory 
+webserver ansible_host=ip-172-31-51-219
+local ansible_connection=local
+
